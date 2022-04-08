@@ -3,5 +3,7 @@ plotly
 streamlit
 datetime
 Pydeck
+numpy
+matplotlib
 
 
